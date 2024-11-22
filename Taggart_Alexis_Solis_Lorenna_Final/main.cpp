@@ -283,7 +283,7 @@ int main()
         }
 
         window.clear(sf::Color(255, 133, 249));
-        //wiindow background color
+        //window background color
 
         window.draw(playButton);
         window.draw(playText);
